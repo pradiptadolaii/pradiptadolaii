@@ -1,4 +1,4 @@
-## Hi there 👋
+## Technically driven **Biomedical Engineering student** with foundational knowledge of biomedical instrumentation, biosignal processing, medical imaging, and medical device technology. Proficient in **Python, MATLAB, C, Excel, and Tableau**, with hands-on project experience in **ECG signal analysis, AI-based brain tumor detection, and surgical robotics simulation**. Familiar with biomedical data analysis, control system optimization, image processing, and engineering problem-solving. Eager to apply technical expertise in medical device development, healthcare innovation, and biomedical research.
 
 <!--
 **pradiptadolaii/pradiptadolaii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
