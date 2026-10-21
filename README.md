@@ -29,10 +29,40 @@
 <h3>📊 Data Analysis & Visualization</h3>
 
 <p>
-  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="45" height="45" alt="Microsoft Excel" />
+  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="45" height="45" alt=" Microsoft Excel " />
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/tableau" width="45" height="45" alt="Tableau" />
+  <img src="https://cdn.simpleicons.org/tableau" width="45" height="45" alt=" Tableau " />
 </p>
+
+<h2>🚀 Featured Projects</h2>
+
+<h3>🧠 OncoScan — AI-Based Brain Tumor Detection</h3>
+
+<p>
+  An AI-focused biomedical engineering project
+  exploring brain tumor detection using MRI
+  images and medical image analysis.
+</p>
+
+<p>
+  <strong>Technologies:</strong>
+  Python | Artificial Intelligence | Medical Imaging
+</p>
+
+<p>
+  <strong>Project Highlights:</strong>
+</p>
+
+- Explores brain MRI image classification.
+- Uses a brain tumor MRI dataset for development.
+- Focuses on AI applications in medical imaging.
+- Aims to support research into automated tumor detection.
+
+<p>
+  <em>Project development in progress.</em>
+</p>
+
+<hr>
 
 <p align="center">
   Passionate about Biomedical Engineering,
