@@ -15,16 +15,9 @@
  <a href="mailto:ipradiptadolai@gmail.com"><img src="https://img.shields.io/badge/Email-30363d?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/pradiptadolaii"><img src="https://img.shields.io/badge/GitHub-30363d?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/pradipta-dolai-biomedical">
-  <img src="https://cdn.simpleicons.org/linkedin/white" width="20" height="20" alt="LinkedIn"/> 
-  <img src="https://img.shields.io/badge/LinkedIn-30363d?style=for-the-badge" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-30363d?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=auto" alt="LinkedIn"/>
 </a>
 
-
-
-
-</div>
-
-<br/>
 
 <h2> About Me</h2>
 <table>
