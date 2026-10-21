@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/Building-OncoLens-0d1117?style=for-the-badge&labelColor=12343b&color=00B8A9"/>
 <img src="https://img.shields.io/badge/Open_to-Collaboration-0d1117?style=for-the-badge&labelColor=12343b&color=00B8A9"/>
 
-<a utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+ src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:ipradiptadolai@gmail.com"><img src="https://img.shields.io/badge/Email-30363d?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/pradiptadolaii"><img src="https://img.shields.io/badge/GitHub-30363d?style=for-the-badge&logo=github&logoColor=white"/></a>
 
