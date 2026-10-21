@@ -9,6 +9,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Biomedical+Engineering+Enthusiast;AI+%26+Healthcare+Technology;Python+%26+Robotics+Learner;Exploring+Medical+Innovation" alt="Typing SVG" />
 </p>
 
+<h2>👨‍💻 About Me</h2>
+
+- 🎓 Biomedical Engineering Student
+- 🔬 Interested in Medical Imaging, AI & Healthcare Technology
+- 🤖 Exploring Robotics & Control Systems
+- 💻 Working with Python, C & Data Analysis
+- 🧠 Developing OncoScan — AI-Based Brain Tumor Detection
+- 🚀 Interested in Biomedical Research & Innovation
+
 <p align="center">
   Passionate about Biomedical Engineering,
   Artificial Intelligence, Robotics,
