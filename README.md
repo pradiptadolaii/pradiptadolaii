@@ -18,6 +18,22 @@
 - 🧠 Developing OncoScan — AI-Based Brain Tumor Detection
 - 🚀 Interested in Biomedical Research & Innovation
 
+<h2>🛠️ Technical Skills & Tools</h2>
+
+<h3>💻 Programming & Development</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,vscode,github,git" alt="Programming Skills" />
+</p>
+
+<h3>📊 Data Analysis & Visualization</h3>
+
+<p>
+  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="45" height="45" alt="Microsoft Excel" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/tableau" width="45" height="45" alt="Tableau" />
+</p>
+
 <p align="center">
   Passionate about Biomedical Engineering,
   Artificial Intelligence, Robotics,
