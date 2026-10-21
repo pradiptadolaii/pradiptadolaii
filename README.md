@@ -20,22 +20,33 @@
 
 <br/>
 
-<h2>🩺 About Me</h2>
+<h2> About Me</h2>
 <table>
 <tr>
 <td width="60%" valign="top">
 
-B.Tech Biomedical Engineering student at **Adamas University, Kolkata**, working where medical devices meet intelligent software. I apply deep learning to medical imaging and turn clinical and sensor data into reliable, deployable tools.
+
+
+I'm a **Biomedical Engineering undergraduate at Adamas University, Kolkata**, with hands-on project experience in **AI-driven healthcare, Medical Image Processing, Robotics & Control Systems, and Data Analytics**.
+
+Proficient in **Python, MATLAB, TensorFlow, and data visualization tools**, with experience applying technical and analytical skills to biomedical engineering challenges.
+
+
+🤝 **Open to:** Biomedical Engineering Internships | Research Opportunities | Technical Collaborations
+
 
 </td>
 <td width="40%" valign="top">
 
 ```yaml
-focus:
-  - Medical imaging (CNN)
-  - Biosensors & signals
-  - Clinical workflow AI
-languages: [Hindi, English, Bengali]
+Focus:
+    Medical imaging (CNN)
+    Biosensors & signals
+    Clinical workflow AI
+Languages:
+    Hindi
+    English
+    Bengali
 ```
 
 </td>
@@ -66,6 +77,16 @@ languages: [Hindi, English, Bengali]
 <img src="https://img.shields.io/badge/Tableau-0d1117?style=flat-square&logo=tableau&logoColor=00B8A9"/>
 <img src="https://img.shields.io/badge/Excel-0d1117?style=flat-square&logo=microsoftexcel&logoColor=00B8A9"/>
 <img src="https://img.shields.io/badge/DAX-0d1117?style=flat-square&logoColor=00B8A9"/>
+  
+  # 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=pradiptadolaii&theme=merko&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=pradiptadolaii&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=pradiptadolaii&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 </td>
 </tr>
 </table>
